@@ -1,0 +1,58 @@
+{
+  "uid" : "40cfeffa5ad7e3b6",
+  "name" : "Scroll to Bsk",
+  "fullName" : "Go DirectVoice Contacts Page.Scroll to Bsk",
+  "historyId" : "41a6979109e9413db2c679ef70e70322",
+  "time" : {
+    "start" : 1649565523677,
+    "stop" : 1649565569433,
+    "duration" : 45756
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-2"
+  }, {
+    "name" : "suite",
+    "value" : "Go DirectVoice Contacts Page"
+  }, {
+    "name" : "testClass",
+    "value" : "Go DirectVoice Contacts Page"
+  }, {
+    "name" : "testMethod",
+    "value" : "Scroll to Bsk"
+  }, {
+    "name" : "package",
+    "value" : "Go DirectVoice Contacts Page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "SM-G975U 10-10"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "40cfeffa5ad7e3b6.json",
+  "parameterValues" : [ "SM-G975U 10-10" ]
+}

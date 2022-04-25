@@ -1,0 +1,66 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1649565451684' stop='1649565487592'>
+    <name>Go DirectVoice Keypad Page</name>
+    <title>Go DirectVoice Keypad Page</title>
+    <test-cases>
+        <test-case start='1649565451685' status='failed' stop='1649565484930'>
+            <name>Account Name Test</name>
+            <title>Account Name Test</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-1'/>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-1'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='device' value='SM-G975U 10-10'/>
+                <parameter kind='argument' name='device' value='SM-G975U 10-10'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>expect(received).toEqual(expected) // deep equality
+                
+                Expected: "GDRSS"
+                Received: "GDR"</message>
+                <stack-trace>Error: expect(received).toEqual(expected) // deep equality
+                
+                Expected: "GDRSS"
+                Received: "GDR"
+                    at Context.&lt;anonymous> (G:\Automation\WebDriverIO\GoDirectVoice-Android\test\specs\keypad\keypad.specs.js:17:31)</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1649565484931' status='passed' stop='1649565485450'>
+            <name>Account Online Test</name>
+            <title>Account Online Test</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-1'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='device' value='SM-G975U 10-10'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='1f043f12-15a1-421b-8bb1-ef43b068662d-attachment.png' type='image/png' size='82540'/>
+            </attachments>
+        </test-case>
+        <test-case start='1649565485450' status='passed' stop='1649565487592'>
+            <name>Dial on Keypad Tst</name>
+            <title>Dial on Keypad Tst</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-1'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='device' value='SM-G975U 10-10'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

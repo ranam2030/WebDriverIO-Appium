@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "expect(received).toEqual(expected) // deep equality\n                \n                Expected: \"GDRSS\"\n                Received: \"GDR\"",
+      "children" : [ {
+        "name" : "Account Name Test",
+        "uid" : "37ff3a0a49f7a1f",
+        "parentUid" : "5afc4033e1bcbfe4a4c48dc256eb18d5",
+        "status" : "failed",
+        "time" : {
+          "start" : 1649565451685,
+          "stop" : 1649565484930,
+          "duration" : 33245
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "SM-G975U 10-10" ]
+      } ],
+      "uid" : "5afc4033e1bcbfe4a4c48dc256eb18d5"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ],
+  "name" : "categories"
+}

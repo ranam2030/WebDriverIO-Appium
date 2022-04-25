@@ -1,0 +1,74 @@
+{
+  "uid" : "587ca01b525a835",
+  "name" : "Account Online Test",
+  "fullName" : "Go DirectVoice Keypad Page.Account Online Test",
+  "historyId" : "9f0ea7801103b158bfd2216dd2a73640",
+  "time" : {
+    "start" : 1649565484931,
+    "stop" : 1649565485450,
+    "duration" : 519
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "3dcf51624dc1fe11",
+      "name" : "Screenshot",
+      "source" : "3dcf51624dc1fe11.png",
+      "type" : "image/png",
+      "size" : 82540
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Go DirectVoice Keypad Page"
+  }, {
+    "name" : "testClass",
+    "value" : "Go DirectVoice Keypad Page"
+  }, {
+    "name" : "testMethod",
+    "value" : "Account Online Test"
+  }, {
+    "name" : "package",
+    "value" : "Go DirectVoice Keypad Page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "SM-G975U 10-10"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "587ca01b525a835.json",
+  "parameterValues" : [ "SM-G975U 10-10" ]
+}

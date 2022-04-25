@@ -1,0 +1,58 @@
+{
+  "uid" : "2a286fa03f5be80b",
+  "name" : "Skip Button Test",
+  "fullName" : "Go DirectVoice Keypad Page.Skip Button Test",
+  "historyId" : "ecacdcc3f7e62fc3d07537526953c4ce",
+  "time" : {
+    "start" : 1649565424330,
+    "stop" : 1649565428928,
+    "duration" : 4598
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Go DirectVoice Keypad Page"
+  }, {
+    "name" : "testClass",
+    "value" : "Go DirectVoice Keypad Page"
+  }, {
+    "name" : "testMethod",
+    "value" : "Skip Button Test"
+  }, {
+    "name" : "package",
+    "value" : "Go DirectVoice Keypad Page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "SM-G975U 10-10"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2a286fa03f5be80b.json",
+  "parameterValues" : [ "SM-G975U 10-10" ]
+}

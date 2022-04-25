@@ -1,0 +1,81 @@
+[ {
+  "uid" : "2a286fa03f5be80b",
+  "name" : "Skip Button Test",
+  "time" : {
+    "start" : 1649565424330,
+    "stop" : 1649565428928,
+    "duration" : 4598
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "587ca01b525a835",
+  "name" : "Account Online Test",
+  "time" : {
+    "start" : 1649565484931,
+    "stop" : 1649565485450,
+    "duration" : 519
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8b1599cf16cb013c",
+  "name" : "Manual Generic account config",
+  "time" : {
+    "start" : 1649565430265,
+    "stop" : 1649565439211,
+    "duration" : 8946
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "59d4e90e7ebd03dc",
+  "name" : "Dial on Keypad Tst",
+  "time" : {
+    "start" : 1649565485450,
+    "stop" : 1649565487592,
+    "duration" : 2142
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "40cfeffa5ad7e3b6",
+  "name" : "Scroll to Bsk",
+  "time" : {
+    "start" : 1649565523677,
+    "stop" : 1649565569433,
+    "duration" : 45756
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "37ff3a0a49f7a1f",
+  "name" : "Account Name Test",
+  "time" : {
+    "start" : 1649565451685,
+    "stop" : 1649565484930,
+    "duration" : 33245
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "c20ef2038569a95e",
+  "name" : "Offline page",
+  "time" : {
+    "start" : 1649565428928,
+    "stop" : 1649565430265,
+    "duration" : 1337
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ca8b96e2bdf84e98",
+  "name" : "Go to Contact Page",
+  "time" : {
+    "start" : 1649565499591,
+    "stop" : 1649565523677,
+    "duration" : 24086
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

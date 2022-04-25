@@ -1,0 +1,32 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1650445079919' stop='1650445082689'>
+    <name>Splash Screen Test</name>
+    <title>Splash Screen Test</title>
+    <test-cases>
+        <test-case start='1650445079919' status='broken' stop='1650445082688'>
+            <name>Router Name Test</name>
+            <title>Router Name Test</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='device' value='SM-G975U 10-10'/>
+                <parameter kind='argument' name='device' value='SM-G975U 10-10'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>SplashScreen.RouterName is not a function</message>
+                <stack-trace>TypeError: SplashScreen.RouterName is not a function
+                    at Context.&lt;anonymous> (G:\Automation\WebDriverIO\GoDirectVoice-Android\test\specs\splash\splash.specs.js:10:47)
+                    at Context.executeAsync (G:\Automation\WebDriverIO\GoDirectVoice-Android\node_modules\@wdio\utils\build\shim.js:331:27)
+                    at Context.testFrameworkFnWrapper (G:\Automation\WebDriverIO\GoDirectVoice-Android\node_modules\@wdio\utils\build\test-framework\testFnWrapper.js:51:32)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

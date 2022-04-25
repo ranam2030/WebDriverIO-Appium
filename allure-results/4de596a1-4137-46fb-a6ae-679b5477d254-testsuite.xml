@@ -1,0 +1,39 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1649568393236' stop='1649568461753'>
+    <name>Go DirectVoice Contacts Page</name>
+    <title>Go DirectVoice Contacts Page</title>
+    <test-cases>
+        <test-case start='1649568393236' status='passed' stop='1649568417180'>
+            <name>Go to Contact Page</name>
+            <title>Go to Contact Page</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-2'/>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-2'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='device' value='SM-G975U 10-10'/>
+                <parameter kind='argument' name='device' value='SM-G975U 10-10'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1649568417180' status='passed' stop='1649568461752'>
+            <name>Scroll to Bsk</name>
+            <title>Scroll to Bsk</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-2'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='device' value='SM-G975U 10-10'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

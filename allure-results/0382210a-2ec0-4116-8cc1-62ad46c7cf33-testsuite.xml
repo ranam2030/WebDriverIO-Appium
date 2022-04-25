@@ -1,0 +1,53 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1649568350424' stop='1649568382132'>
+    <name>Go DirectVoice Keypad Page</name>
+    <title>Go DirectVoice Keypad Page</title>
+    <test-cases>
+        <test-case start='1649568350424' status='passed' stop='1649568379221'>
+            <name>Account Name Test</name>
+            <title>Account Name Test</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-1'/>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-1'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='device' value='SM-G975U 10-10'/>
+                <parameter kind='argument' name='device' value='SM-G975U 10-10'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1649568379222' status='passed' stop='1649568379325'>
+            <name>Account Online Test</name>
+            <title>Account Online Test</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-1'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='device' value='SM-G975U 10-10'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1649568379325' status='passed' stop='1649568382131'>
+            <name>Dial on Keypad Tst</name>
+            <title>Dial on Keypad Tst</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-1'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='device' value='SM-G975U 10-10'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

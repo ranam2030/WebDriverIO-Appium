@@ -1,0 +1,117 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "children" : [ {
+    "name" : "Go DirectVoice Keypad Page",
+    "children" : [ {
+      "name" : "Skip Button Test",
+      "uid" : "2a286fa03f5be80b",
+      "parentUid" : "9cc893814cd7a5986e06a905ad23193e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649565424330,
+        "stop" : 1649565428928,
+        "duration" : 4598
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "SM-G975U 10-10" ]
+    }, {
+      "name" : "Offline page",
+      "uid" : "c20ef2038569a95e",
+      "parentUid" : "9cc893814cd7a5986e06a905ad23193e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649565428928,
+        "stop" : 1649565430265,
+        "duration" : 1337
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "SM-G975U 10-10" ]
+    }, {
+      "name" : "Manual Generic account config",
+      "uid" : "8b1599cf16cb013c",
+      "parentUid" : "9cc893814cd7a5986e06a905ad23193e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649565430265,
+        "stop" : 1649565439211,
+        "duration" : 8946
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "SM-G975U 10-10" ]
+    }, {
+      "name" : "Account Name Test",
+      "uid" : "37ff3a0a49f7a1f",
+      "parentUid" : "9cc893814cd7a5986e06a905ad23193e",
+      "status" : "failed",
+      "time" : {
+        "start" : 1649565451685,
+        "stop" : 1649565484930,
+        "duration" : 33245
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "SM-G975U 10-10" ]
+    }, {
+      "name" : "Account Online Test",
+      "uid" : "587ca01b525a835",
+      "parentUid" : "9cc893814cd7a5986e06a905ad23193e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649565484931,
+        "stop" : 1649565485450,
+        "duration" : 519
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "SM-G975U 10-10" ]
+    }, {
+      "name" : "Dial on Keypad Tst",
+      "uid" : "59d4e90e7ebd03dc",
+      "parentUid" : "9cc893814cd7a5986e06a905ad23193e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649565485450,
+        "stop" : 1649565487592,
+        "duration" : 2142
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "SM-G975U 10-10" ]
+    } ],
+    "uid" : "9cc893814cd7a5986e06a905ad23193e"
+  }, {
+    "name" : "Go DirectVoice Contacts Page",
+    "children" : [ {
+      "name" : "Go to Contact Page",
+      "uid" : "ca8b96e2bdf84e98",
+      "parentUid" : "45140b3859ad4518c8d96fba432845d4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649565499591,
+        "stop" : 1649565523677,
+        "duration" : 24086
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "SM-G975U 10-10" ]
+    }, {
+      "name" : "Scroll to Bsk",
+      "uid" : "40cfeffa5ad7e3b6",
+      "parentUid" : "45140b3859ad4518c8d96fba432845d4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649565523677,
+        "stop" : 1649565569433,
+        "duration" : 45756
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "SM-G975U 10-10" ]
+    } ],
+    "uid" : "45140b3859ad4518c8d96fba432845d4"
+  } ],
+  "name" : "suites"
+}

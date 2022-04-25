@@ -1,0 +1,58 @@
+{
+  "uid" : "c20ef2038569a95e",
+  "name" : "Offline page",
+  "fullName" : "Go DirectVoice Keypad Page.Offline page",
+  "historyId" : "894770409d1ac743408231166558aba4",
+  "time" : {
+    "start" : 1649565428928,
+    "stop" : 1649565430265,
+    "duration" : 1337
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Go DirectVoice Keypad Page"
+  }, {
+    "name" : "testClass",
+    "value" : "Go DirectVoice Keypad Page"
+  }, {
+    "name" : "testMethod",
+    "value" : "Offline page"
+  }, {
+    "name" : "package",
+    "value" : "Go DirectVoice Keypad Page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "SM-G975U 10-10"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c20ef2038569a95e.json",
+  "parameterValues" : [ "SM-G975U 10-10" ]
+}

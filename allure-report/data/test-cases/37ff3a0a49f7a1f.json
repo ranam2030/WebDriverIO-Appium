@@ -1,0 +1,64 @@
+{
+  "uid" : "37ff3a0a49f7a1f",
+  "name" : "Account Name Test",
+  "fullName" : "Go DirectVoice Keypad Page.Account Name Test",
+  "historyId" : "3b78610f702f5c118cf48b0275cfd515",
+  "time" : {
+    "start" : 1649565451685,
+    "stop" : 1649565484930,
+    "duration" : 33245
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "expect(received).toEqual(expected) // deep equality\n                \n                Expected: \"GDRSS\"\n                Received: \"GDR\"",
+  "statusTrace" : "Error: expect(received).toEqual(expected) // deep equality\n                \n                Expected: \"GDRSS\"\n                Received: \"GDR\"\n                    at Context.<anonymous> (G:\\Automation\\WebDriverIO\\GoDirectVoice-Android\\test\\specs\\keypad\\keypad.specs.js:17:31)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Go DirectVoice Keypad Page"
+  }, {
+    "name" : "testClass",
+    "value" : "Go DirectVoice Keypad Page"
+  }, {
+    "name" : "testMethod",
+    "value" : "Account Name Test"
+  }, {
+    "name" : "package",
+    "value" : "Go DirectVoice Keypad Page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "SM-G975U 10-10"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "37ff3a0a49f7a1f.json",
+  "parameterValues" : [ "SM-G975U 10-10" ]
+}

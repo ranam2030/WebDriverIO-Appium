@@ -1,0 +1,66 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1650477287941' stop='1650477328370'>
+    <name>Go DirectVoice Keypad Page</name>
+    <title>Go DirectVoice Keypad Page</title>
+    <test-cases>
+        <test-case start='1650477287941' status='broken' stop='1650477317278'>
+            <name>Skip Button Test</name>
+            <title>Skip Button Test</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='device' value='SM-G975U 10-10'/>
+                <parameter kind='argument' name='device' value='SM-G975U 10-10'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>element ("//*[@resource-id="com.honeywell.aero.godirectvoice:id/skip"]") still not displayed after 1000ms</message>
+                <stack-trace>Error: element ("//*[@resource-id="com.honeywell.aero.godirectvoice:id/skip"]") still not displayed after 1000ms
+                    at G:\Automation\WebDriverIO\GoDirectVoice-Android\node_modules\webdriverio\build\commands\browser\waitUntil.js:66:23
+                    at async Element.wrapCommandFn (G:\Automation\WebDriverIO\GoDirectVoice-Android\node_modules\@wdio\utils\build\shim.js:137:29)
+                    at async Element.elementErrorHandlerCallbackFn (G:\Automation\WebDriverIO\GoDirectVoice-Android\node_modules\webdriverio\build\middlewares.js:24:32)
+                    at async Element.wrapCommandFn (G:\Automation\WebDriverIO\GoDirectVoice-Android\node_modules\@wdio\utils\build\shim.js:137:29)
+                    at async Element.wrapCommandFn (G:\Automation\WebDriverIO\GoDirectVoice-Android\node_modules\@wdio\utils\build\shim.js:137:29)
+                    at async Element.elementErrorHandlerCallbackFn (G:\Automation\WebDriverIO\GoDirectVoice-Android\node_modules\webdriverio\build\middlewares.js:24:32)
+                    at async Element.wrapCommandFn (G:\Automation\WebDriverIO\GoDirectVoice-Android\node_modules\@wdio\utils\build\shim.js:137:29)
+                    at async commonutils.doClick (G:\Automation\WebDriverIO\GoDirectVoice-Android\test\utils\common.utils.js:3:9)
+                    at async Context.&lt;anonymous> (G:\Automation\WebDriverIO\GoDirectVoice-Android\test\specs\manualAccount\manualAccount.specs.js:14:9)</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1650477317282' status='passed' stop='1650477319424'>
+            <name>Offline page</name>
+            <title>Offline page</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='device' value='SM-G975U 10-10'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1650477319425' status='passed' stop='1650477328368'>
+            <name>Manual Generic account config</name>
+            <title>Manual Generic account config</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='device' value='SM-G975U 10-10'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
